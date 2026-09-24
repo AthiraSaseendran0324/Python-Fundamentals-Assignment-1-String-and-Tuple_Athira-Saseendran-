@@ -1,5 +1,7 @@
 # Python-Fundamentals Assignment1 - String and Tuple
 
+LINK : https://colab.research.google.com/drive/1otbh-navUcQyrm21Zo9_6MPGdqXkBT6Z?usp=sharing
+
  About the Assignment
 
 This assignment is part of my Python Fundamentals learning journey. 
@@ -21,12 +23,12 @@ The assignment was completed using Google Colab.
 
  Assignment Tasks
 
- 1. String Concatenation
+### 1. String Concatenation
 - Get the user's name as input.
 - Concatenate the name with "Hello ".
 - Add ", welcome to Python programming" to the existing string.
 
- 2. String Slicing and Indexing
+### 2. String Slicing and Indexing
 - Print the first character.
 - Print the last character.
 - Print the first 5 characters.
@@ -34,7 +36,7 @@ The assignment was completed using Google Colab.
 - Reverse the string.
 - Extract the word "Python" using slicing.
 
- 3. String Methods
+### 3. String Methods
 The following string methods were used:
 
 - upper()
@@ -43,7 +45,7 @@ The following string methods were used:
 - count()
 - replace()
 
- 4. Tuples
+### 4. Tuples
 - Create two tuples.
 - Concatenate the tuples.
 - Repeat the combined tuple three times.
@@ -55,6 +57,7 @@ The following string methods were used:
  Tools Used
  - Python
  - Google Colab
+
   
 By
 ## Athira Saseendran
