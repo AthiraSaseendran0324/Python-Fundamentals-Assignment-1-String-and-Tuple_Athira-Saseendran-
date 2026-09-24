@@ -1,4 +1,4 @@
-# Python-Fundamentals-Assignment-1-String-and-Tuple_Athira-Saseendran-
+# Python-Fundamentals-Assignment-1-String-and-Tuple
 
  About the Assignment
 
